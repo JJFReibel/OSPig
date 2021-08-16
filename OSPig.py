@@ -1,4 +1,4 @@
-# By JJ Reibel, using Python 3.10
+# By JJ Reibel, using Python 3
 import platform
 
 # Get Computer Name
